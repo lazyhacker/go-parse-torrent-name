@@ -1,3 +1,3 @@
-module github.com/lazyhacker/go-parse-torrent-namewq
+module github.com/lazyhacker/go-parse-torrent-name
 
 go 1.19
